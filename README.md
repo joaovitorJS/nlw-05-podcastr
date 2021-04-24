@@ -38,8 +38,8 @@ Nesta aplicação o usuário pode ouvir um podcast inteiro apenas com um clique,
 
 ---
 ## 🎨 Layout
-<a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0?node-id=160%3A2761">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+<a href="https://www.figma.com/file/lvj0X4V5flra1SQB83hHnz/Podcastr-(Copy)">
+  <img alt="Layout podcastr figma" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
 ### Web
@@ -94,7 +94,8 @@ $ npm run dev
 
 #O servidor JSON estará rodando no porta 3333 - http://localhost:3333
 
-# O servidor web inciará na porta:3000 - acesse http://localhost:3000 em seu navegador para ver a aplicação funcionando
+# O servidor web inciará na porta:3000 - 
+# acesse http://localhost:3000 em seu navegador para ver a aplicação funcionando
 ```
 
 ---
@@ -114,6 +115,9 @@ $ npm run dev
 
 ## 👨🏻‍💻 Autor
 <br>
+<p>
+  <img src="./.github/joao.jpeg" alt="João Vitor" width="150px" height="200px" style="border-radius: 40px">
+</p>
 
 ## **[João Vitor](https://github.com/joaovitorJS)**
 
