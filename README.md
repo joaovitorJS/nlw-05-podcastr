@@ -49,7 +49,7 @@ Nesta aplicação o usuário pode ouvir um podcast inteiro apenas com um clique,
 </p>
  <br>
 <p align="center">
-  <img src="./.github/page-home.png" alt="Layout Inicial" width="500px" height="270px"/>
+  <img src="./.github/page-home.png" alt="Layout Inicial" width="500px" height="300px"/>
   <img src="./.github/page-slug.png" alt="Descrição do episódio" width="500px" height="300px"/>
 </p>
 
@@ -116,7 +116,7 @@ $ npm run dev
 ## 👨🏻‍💻 Autor
 <br>
 <p>
-  <img src="./.github/joao.jpeg" alt="João Vitor" width="150px" height="200px" style="border-radius: 40px">
+  <img src="./.github/joao.jpeg" alt="João Vitor" width="150px" height="200px" />
 </p>
 
 ## **[João Vitor](https://github.com/joaovitorJS)**
