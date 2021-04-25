@@ -109,7 +109,7 @@ $ npm run dev
 * **[Sass](https://sass-lang.com/install)**
 * **[rc-slider](https://slider-react-component.vercel.app/)**
 
-> Veja o arquivo  [package.json](https://github.com/joaovitorJS/nlw-04-moveit/blob/master/package.json) para ver todas as dependências do projeto
+> Veja o arquivo  [package.json](https://github.com/joaovitorJS/nlw-05-podcastr/blob/master/package.json) para ver todas as dependências do projeto
 
 ---
 
